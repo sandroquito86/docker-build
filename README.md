@@ -12,7 +12,7 @@ You need a way to put all together and make it work anywhere quickly.
 # Installation
 
 ### Clone Project
-`git clone ssh://git@gitlab.armada.mil.ec:10022/jortegac/odoo-docker-build.git`
+`git clone git@github.com:sandroquito86/docker-build.git
 
 ### Run Script 
 `sudo sh install.sh`
